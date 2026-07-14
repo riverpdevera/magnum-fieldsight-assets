@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <rect x="0" y="0" width="400" height="220" fill="#f3f1ec"></rect>
+  
+  <rect x="70" y="120" width="260" height="60" rx="4" fill="#c7c3ba" stroke="#1a1a1a" stroke-width="2"></rect>
+  <rect x="70" y="120" width="260" height="14" rx="4" fill="#9c9184" stroke="#1a1a1a" stroke-width="1.5"></rect>
+  
+  <rect x="150" y="86" width="100" height="34" rx="4" fill="none" stroke="#6b6b6b" stroke-width="2"></rect>
+  <line x1="160" y1="86" x2="160" y2="120" stroke="#6b6b6b" stroke-width="1.5"></line>
+  <line x1="180" y1="86" x2="180" y2="120" stroke="#6b6b6b" stroke-width="1.5"></line>
+  <line x1="200" y1="86" x2="200" y2="120" stroke="#6b6b6b" stroke-width="1.5"></line>
+  <line x1="220" y1="86" x2="220" y2="120" stroke="#6b6b6b" stroke-width="1.5"></line>
+  <line x1="240" y1="86" x2="240" y2="120" stroke="#6b6b6b" stroke-width="1.5"></line>
+  
+  <rect x="156" y="92" width="16" height="24" rx="2" fill="#e2622f" stroke="#1a1a1a" stroke-width="1.2"></rect>
+  <rect x="176" y="92" width="16" height="24" rx="2" fill="#eab308" stroke="#1a1a1a" stroke-width="1.2"></rect>
+  <rect x="196" y="92" width="16" height="24" rx="2" fill="#d6303d" stroke="#1a1a1a" stroke-width="1.2"></rect>
+  <rect x="216" y="92" width="16" height="24" rx="2" fill="#c9a06b" stroke="#1a1a1a" stroke-width="1.2"></rect>
+  
+  <rect x="150" y="136" width="100" height="22" rx="2" fill="#9c1f28" stroke="#1a1a1a" stroke-width="1.3"></rect>
+  <text x="200" y="150" font-family="Arial,sans-serif" font-weight="800" font-size="8" fill="#fff" text-anchor="middle" letter-spacing="0.5">IMPULSE DISPLAY</text>
+  <rect x="0" y="180" width="400" height="40" fill="#b9b3a8"></rect>
+  
+  <rect x="140" y="8" width="150" height="16" rx="3" fill="#9c1f28"></rect>
+  <text x="215" y="20" font-family="Arial,sans-serif" font-weight="800" font-size="10" fill="#fff" text-anchor="middle" letter-spacing="0.5">OTHER SECONDARY DISPLAY</text>
+  <text x="20" y="215" font-family="Arial,sans-serif" font-weight="800" font-size="12" fill="#1a1a1a" letter-spacing="0.5">OTHER SECONDARY DISPLAY &amp;middot; PLACEMENT MOCKUP</text>
+</svg>

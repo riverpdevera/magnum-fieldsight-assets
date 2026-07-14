@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 170" width="400" height="170">
+  <rect x="0" y="0" width="400" height="170" fill="#f6f4ee"></rect>
+  
+  <rect x="0" y="120" width="400" height="50" fill="#d8d3c8"></rect>
+  <rect x="30" y="40" width="340" height="90" fill="#eae6dc" stroke="#1a1a1a" stroke-width="3"></rect>
+  <rect x="30" y="40" width="340" height="26" fill="#d6303d" stroke="#1a1a1a" stroke-width="3"></rect>
+  <text x="200" y="59" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="15" fill="#fff" letter-spacing="1">STORE ENTRANCE</text>
+  <rect x="170" y="86" width="60" height="60" fill="#4a4a4d" stroke="#1a1a1a" stroke-width="3"></rect>
+  <line x1="200" y1="86" x2="200" y2="146" stroke="#1a1a1a" stroke-width="2"></line>
+  <rect x="46" y="86" width="46" height="44" fill="#a9d3e8" stroke="#1a1a1a" stroke-width="2.5"></rect>
+  <rect x="308" y="86" width="46" height="44" fill="#a9d3e8" stroke="#1a1a1a" stroke-width="2.5"></rect>
+  <circle cx="352" cy="30" r="16" fill="#f0c030" stroke="#1a1a1a" stroke-width="2.5"></circle>
+
+  </svg>

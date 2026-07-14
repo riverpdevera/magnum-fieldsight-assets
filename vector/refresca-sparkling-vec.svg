@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 170" width="140" height="170">
+  <rect x="0" y="0" width="140" height="170" fill="#fafafa"></rect>
+  
+    <rect x="46" y="30" width="48" height="126" rx="10" fill="#4fb3bf" stroke="#1a1a1a" stroke-width="3"></rect>
+    <rect x="46" y="30" width="48" height="14" rx="7" fill="#2f7f8c" stroke="#1a1a1a" stroke-width="2.5"></rect>
+    <rect x="46" y="142" width="48" height="14" rx="7" fill="#2f7f8c" stroke="#1a1a1a" stroke-width="2.5"></rect>
+    <circle cx="70" cy="66" r="11" fill="#fff" stroke="#1a1a1a" stroke-width="2.2"></circle>
+    <g transform="translate(70,66)"><circle cx="-3" cy="1" r="2.6" fill="#4fb3bf"></circle><circle cx="3" cy="-2" r="1.8" fill="#4fb3bf"></circle><circle cx="1" cy="4" r="1.4" fill="#4fb3bf"></circle></g>
+    <text x="70" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="9" fill="#fff">REFRESCA</text>
+    <text x="70" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="9" fill="#fff">Sparkling</text>
+  
+  </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220">
+  <rect x="0" y="0" width="400" height="220" fill="#e4dcd2"></rect>
+  <rect x="20" y="20" width="360" height="180" fill="#f3f1ec" stroke="#1a1a1a" stroke-width="2"></rect>
+
+  <rect x="36" y="36" width="150" height="148" fill="#fff" stroke="#1a1a1a" stroke-width="1.5"></rect>
+  <rect x="36" y="36" width="150" height="30" fill="#9c1f28"></rect>
+  <text x="111" y="56" font-family="Arial,sans-serif" font-weight="800" font-size="12" fill="#fff" text-anchor="middle" letter-spacing="0.5">PROMO POSTER</text>
+  <rect x="50" y="76" width="122" height="70" fill="#eab308" stroke="#1a1a1a" stroke-width="1"></rect>
+  <text x="111" y="115" font-family="Arial,sans-serif" font-weight="800" font-size="14" fill="#1a1a1a" text-anchor="middle">40% OFF</text>
+  <rect x="50" y="154" width="122" height="16" rx="2" fill="#1a1a1a"></rect>
+
+  <rect x="204" y="36" width="160" height="60" fill="#a9c3d1" stroke="#1a1a1a" stroke-width="1.5"></rect>
+  <line x1="204" y1="36" x2="364" y2="96" stroke="#1a1a1a" stroke-width="1"></line>
+  <line x1="364" y1="36" x2="204" y2="96" stroke="#1a1a1a" stroke-width="1"></line>
+  <text x="284" y="70" font-family="Arial,sans-serif" font-weight="700" font-size="9" fill="#1a1a1a" text-anchor="middle">END-AISLE BANNER</text>
+
+  <rect x="204" y="106" width="160" height="78" fill="#fff" stroke="#1a1a1a" stroke-width="1.5"></rect>
+  <rect x="216" y="118" width="60" height="18" rx="2" fill="#2f7d4f"></rect>
+  <rect x="216" y="142" width="136" height="8" rx="2" fill="#1a1a1a"></rect>
+  <rect x="216" y="156" width="100" height="8" rx="2" fill="#c9c4b8"></rect>
+  <text x="284" y="178" font-family="Arial,sans-serif" font-weight="700" font-size="8" fill="#5c5c5c" text-anchor="middle">SHELF-EDGE PRICE TAG</text>
+
+  <text x="36" y="212" font-family="Arial,sans-serif" font-weight="800" font-size="12" fill="#1a1a1a" letter-spacing="0.5">PROMO EXECUTION MOCKUP</text>
+</svg>

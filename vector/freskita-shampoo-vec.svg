@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 170" width="140" height="170">
+  <rect x="0" y="0" width="140" height="170" fill="#fafafa"></rect>
+  
+    <rect x="58" y="14" width="24" height="14" rx="3" fill="#2f7f8c" stroke="#1a1a1a" stroke-width="3"></rect>
+    <path d="M50 28 L90 28 L96 44 Q100 50 100 60 L100 148 Q100 160 88 160 L52 160 Q40 160 40 148 L40 60 Q40 50 44 44 Z" fill="#4fb3bf" stroke="#1a1a1a" stroke-width="3"></path>
+    <rect x="40" y="78" width="60" height="36" fill="#fff" opacity="0.92" stroke="#1a1a1a" stroke-width="2.5"></rect>
+    <circle cx="70" cy="60" r="11" fill="#fff" stroke="#1a1a1a" stroke-width="2.2"></circle>
+    <g transform="translate(70,60)"><path d="M0 -7 C5 -1 6 3 0 7 C-6 3 -5 -1 0 -7 Z" fill="#2f9e8f" stroke="#1a1a1a" stroke-width="1.4"></path></g>
+    <text x="70" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="12.5" fill="#2f7f8c">FRESKITA</text>
+    <text x="70" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="10.5" fill="#1a1a1a">Shampoo</text>
+  
+  </svg>
